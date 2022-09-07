@@ -1,3 +1,2 @@
 #!/bin/bash 
-BEAST=School
-BEAST=School
+export BEAST="School"
