@@ -1,6 +1,2 @@
 #!/bin/bash 
-<<<<<<< HEAD
 past -d, - - | cut -d, -f1
-=======
-paste - - | cut f1
->>>>>>> 9c681e642c3b200c3c16cebb94ca585c3d4e95b8
